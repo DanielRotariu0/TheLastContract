@@ -1,0 +1,15 @@
+<map id="Game.States.PauseState.Save" name="Game.States.PauseState.Save">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,208,326"/>
+<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_character.html#ad4522f20529a5d8ef5585e755f861293" title=" " alt="" coords="275,5,445,47"/>
+<area shape="rect" id="node3" href="$class_game_1_1_ref_links.html#a742314b54fac34711cd7fdf40c21a4a3" title=" " alt="" coords="265,71,455,98"/>
+<area shape="rect" id="node4" href="$class_game_1_1_ref_links.html#abc001978dc21007a4be2d3dbfbe6eacb" title=" " alt="" coords="275,122,445,149"/>
+<area shape="rect" id="node5" href="$class_game_1_1_game.html#a5180830feb5b1af66143b06f9a999511" title=" " alt="" coords="267,173,453,199"/>
+<area shape="rect" id="node6" href="$class_game_1_1_game.html#a9a650e658415a9e0fd3e392f82f2a68a" title=" " alt="" coords="267,223,453,250"/>
+<area shape="rect" id="node7" href="$class_game_1_1_game.html#ab45e3731b2ad8097a8531205ce343202" title=" " alt="" coords="267,274,453,301"/>
+<area shape="rect" id="node8" href="$class_game_1_1_game.html#a738cd249c9ae991d1905b13abffa987b" title=" " alt="" coords="273,325,447,351"/>
+<area shape="rect" id="node9" href="$class_game_1_1_states_1_1_state.html#a2e4104a56bc2c6eef5b33ec744a87af9" title=" " alt="" coords="256,376,464,417"/>
+<area shape="rect" id="node10" href="$class_game_1_1_entities_1_1_player.html#a0054b2492085a6260efcd484f9160b78" title=" " alt="" coords="275,441,445,483"/>
+<area shape="rect" id="node11" href="$class_game_1_1_entities_1_1_entity.html#a65ea8446a231b3e35379d5115bda3e5b" title=" " alt="" coords="273,507,447,534"/>
+<area shape="rect" id="node12" href="$class_game_1_1_entities_1_1_entity.html#ae12b7b156ab4407305ab790422a6707b" title=" " alt="" coords="271,558,449,585"/>
+<area shape="rect" id="node13" href="$class_game_1_1_d_b_handler.html#ad66488fe46c42a70bfe2cb241db902c7" title=" " alt="" coords="263,609,457,635"/>
+</map>

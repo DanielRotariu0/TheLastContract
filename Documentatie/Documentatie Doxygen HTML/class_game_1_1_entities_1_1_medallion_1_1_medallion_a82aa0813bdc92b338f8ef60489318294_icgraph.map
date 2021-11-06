@@ -1,0 +1,9 @@
+<map id="Game.Entities.Medallion.Medallion.Update" name="Game.Entities.Medallion.Medallion.Update">
+<area shape="rect" id="node1" title=" " alt="" coords="693,104,861,145"/>
+<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_medallion_1_1_medallion_manager.html#aa4de6dce74ca5e035e21ff71e1eb7e95" title=" " alt="" coords="473,104,645,145"/>
+<area shape="rect" id="node3" href="$class_game_1_1_maps_1_1_map.html#ae006e11581d06382ce12c3cdafaf85e0" title=" " alt="" coords="259,111,425,138"/>
+<area shape="rect" id="node4" href="$class_game_1_1_states_1_1_level1_state.html#a82478429852f0f29b5beb5e23caf24d5" title=" " alt="" coords="21,5,195,47"/>
+<area shape="rect" id="node5" href="$class_game_1_1_states_1_1_level2_state.html#ac7d78f7e70eb873d051498c4c0e48ee5" title=" " alt="" coords="21,71,195,112"/>
+<area shape="rect" id="node6" href="$class_game_1_1_states_1_1_level3_state.html#a4023172544c74f07ca748327fb8f7c90" title=" " alt="" coords="21,136,195,177"/>
+<area shape="rect" id="node7" href="$class_game_1_1_states_1_1_play_state.html#a92a5eb5dd895b9870814807a5f4e85ae" title=" " alt="" coords="5,202,211,229"/>
+</map>

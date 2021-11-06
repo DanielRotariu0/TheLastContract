@@ -1,0 +1,12 @@
+<map id="Game.Input.MouseManager.leftClickPressed" name="Game.Input.MouseManager.leftClickPressed">
+<area shape="rect" id="node1" title=" " alt="" coords="492,197,695,239"/>
+<area shape="rect" id="node2" href="$class_game_1_1_states_1_1_play_state.html#a1a774bdb8cb6a28ba60103461bc74f81" title=" " alt="" coords="242,78,430,105"/>
+<area shape="rect" id="node6" href="$class_game_1_1_states_1_1_end_state.html#a7e981dbcebadca0bd6c894ff86b5f2b1" title=" " alt="" coords="235,129,437,155"/>
+<area shape="rect" id="node7" href="$class_game_1_1_states_1_1_info_state.html#ae5ec34ab7317601b9500bff9a234df08" title=" " alt="" coords="237,179,435,206"/>
+<area shape="rect" id="node8" href="$class_game_1_1_states_1_1_menu_state.html#a41bfcb7f26b70c0a530678703cda2a6e" title=" " alt="" coords="231,230,441,257"/>
+<area shape="rect" id="node9" href="$class_game_1_1_states_1_1_pause_state.html#a5058bf4d3cbca89246904f30dc2bc663" title=" " alt="" coords="228,281,444,307"/>
+<area shape="rect" id="node10" href="$class_game_1_1_states_1_1_settings_state.html#a6ff082091acf63cfcc820fac3a8d0e64" title=" " alt="" coords="243,332,429,373"/>
+<area shape="rect" id="node3" href="$class_game_1_1_states_1_1_level1_state.html#a82478429852f0f29b5beb5e23caf24d5" title=" " alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node4" href="$class_game_1_1_states_1_1_level2_state.html#ac7d78f7e70eb873d051498c4c0e48ee5" title=" " alt="" coords="5,71,180,112"/>
+<area shape="rect" id="node5" href="$class_game_1_1_states_1_1_level3_state.html#a4023172544c74f07ca748327fb8f7c90" title=" " alt="" coords="5,136,180,177"/>
+</map>

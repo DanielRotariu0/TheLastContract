@@ -1,0 +1,6 @@
+<map id="Game.States.Level1State.Level1State" name="Game.States.Level1State.Level1State">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,180,90"/>
+<area shape="rect" id="node2" href="$class_game_1_1_ref_links.html#a742314b54fac34711cd7fdf40c21a4a3" title=" " alt="" coords="245,5,435,32"/>
+<area shape="rect" id="node3" href="$class_game_1_1_d_b_handler.html#a37ae6fe0b0ffaedb7ff4ed0150425ada" title=" " alt="" coords="228,56,452,83"/>
+<area shape="rect" id="node4" href="$class_game_1_1_graphics_1_1_sound.html#a052671c17427176dee7cce787adc0e5d" title=" " alt="" coords="230,107,450,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Game.Game.getPauseState" name="Game.Game.getPauseState">
+<area shape="rect" id="node1" title=" " alt="" coords="259,111,445,138"/>
+<area shape="rect" id="node2" href="$class_game_1_1_states_1_1_level1_state.html#a82478429852f0f29b5beb5e23caf24d5" title=" " alt="" coords="21,5,195,47"/>
+<area shape="rect" id="node3" href="$class_game_1_1_states_1_1_level2_state.html#ac7d78f7e70eb873d051498c4c0e48ee5" title=" " alt="" coords="21,71,195,112"/>
+<area shape="rect" id="node4" href="$class_game_1_1_states_1_1_level3_state.html#a4023172544c74f07ca748327fb8f7c90" title=" " alt="" coords="21,136,195,177"/>
+<area shape="rect" id="node5" href="$class_game_1_1_states_1_1_play_state.html#a92a5eb5dd895b9870814807a5f4e85ae" title=" " alt="" coords="5,202,211,229"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Game.Entities.Enemies.Witch" name="Game.Entities.Enemies.Witch">
+<area shape="rect" id="node1" title=" " alt="" coords="9,229,207,256"/>
+<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_enemies_1_1_enemy.html" title=" " alt="" coords="5,155,211,181"/>
+<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_character.html" title=" " alt="" coords="25,80,191,107"/>
+<area shape="rect" id="node4" href="$class_game_1_1_entities_1_1_entity.html" title=" " alt="" coords="37,5,179,32"/>
+</map>

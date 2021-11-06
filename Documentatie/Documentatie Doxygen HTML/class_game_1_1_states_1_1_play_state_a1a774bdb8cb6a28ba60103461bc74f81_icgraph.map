@@ -1,0 +1,6 @@
+<map id="Game.States.PlayState.died" name="Game.States.PlayState.died">
+<area shape="rect" id="node1" title=" " alt="" coords="228,78,416,105"/>
+<area shape="rect" id="node2" href="$class_game_1_1_states_1_1_level1_state.html#a82478429852f0f29b5beb5e23caf24d5" title=" " alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$class_game_1_1_states_1_1_level2_state.html#ac7d78f7e70eb873d051498c4c0e48ee5" title=" " alt="" coords="5,71,180,112"/>
+<area shape="rect" id="node4" href="$class_game_1_1_states_1_1_level3_state.html#a4023172544c74f07ca748327fb8f7c90" title=" " alt="" coords="5,136,180,177"/>
+</map>

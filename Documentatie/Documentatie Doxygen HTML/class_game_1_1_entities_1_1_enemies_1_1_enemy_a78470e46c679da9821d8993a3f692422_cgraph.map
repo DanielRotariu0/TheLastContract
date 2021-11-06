@@ -1,0 +1,8 @@
+<map id="Game.Entities.Enemies.Enemy.gettingHit" name="Game.Entities.Enemies.Enemy.gettingHit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,269,163"/>
+<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_entity.html#a3a10fe705e6c4e46431c02cb11970026" title=" " alt="" coords="339,5,505,47"/>
+<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_entity.html#aa069ff4e6ace14edcc0f82c3000cb833" title=" " alt="" coords="339,71,505,112"/>
+<area shape="rect" id="node4" href="$class_game_1_1_ref_links.html#a7ced22d8b7261fa648198a4156e354fa" title=" " alt="" coords="317,137,527,163"/>
+<area shape="rect" id="node5" href="$class_game_1_1_entities_1_1_player.html#a0d3eb904f58a6149b50ab7560fd920a0" title=" " alt="" coords="327,187,517,214"/>
+<area shape="rect" id="node6" href="$class_game_1_1_graphics_1_1_assets.html#af9217ede3039c2835f35fb9fadb34190" title=" " alt="" coords="323,239,521,280"/>
+</map>

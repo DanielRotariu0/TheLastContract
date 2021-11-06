@@ -1,0 +1,8 @@
+<map id="Game.Game.getLevel3State" name="Game.Game.getLevel3State">
+<area shape="rect" id="node1" title=" " alt="" coords="523,56,708,83"/>
+<area shape="rect" id="node2" href="$class_game_1_1_states_1_1_menu_state.html#a432e5694418c4574c4f58added2c6e1e" title=" " alt="" coords="273,5,471,32"/>
+<area shape="rect" id="node4" href="$class_game_1_1_states_1_1_pause_state.html#a2d4b2ebe2d2f9f03d67ad2bfa3212025" title=" " alt="" coords="271,56,473,83"/>
+<area shape="rect" id="node6" href="$class_game_1_1_states_1_1_play_state.html#a92a5eb5dd895b9870814807a5f4e85ae" title=" " alt="" coords="269,107,475,133"/>
+<area shape="rect" id="node3" href="$class_game_1_1_states_1_1_menu_state.html#a41bfcb7f26b70c0a530678703cda2a6e" title=" " alt="" coords="8,5,219,32"/>
+<area shape="rect" id="node5" href="$class_game_1_1_states_1_1_pause_state.html#a5058bf4d3cbca89246904f30dc2bc663" title=" " alt="" coords="5,56,221,83"/>
+</map>

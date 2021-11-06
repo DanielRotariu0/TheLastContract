@@ -1,0 +1,25 @@
+var class_game_1_1_entities_1_1_character =
+[
+    [ "Character", "class_game_1_1_entities_1_1_character.html#a6d0cc5820f4ed3f99dfc785efd802a5f", null ],
+    [ "Character", "class_game_1_1_entities_1_1_character.html#aac63a85423e5746cc6211952d2fb46f6", null ],
+    [ "collision", "class_game_1_1_entities_1_1_character.html#aa8a076a395ceb4408b41fa614889b720", null ],
+    [ "GetActualLife", "class_game_1_1_entities_1_1_character.html#ad4522f20529a5d8ef5585e755f861293", null ],
+    [ "GetDefaultLife", "class_game_1_1_entities_1_1_character.html#a3b3245f59c22ec048f85ef24e6bcaacf", null ],
+    [ "GetLife", "class_game_1_1_entities_1_1_character.html#a69923dfe52c573032a38769acb53f785", null ],
+    [ "GetSpeed", "class_game_1_1_entities_1_1_character.html#a8398d1091d9b3c566d61f4c47230822d", null ],
+    [ "GetXMove", "class_game_1_1_entities_1_1_character.html#a7af85a6966afc81ac949ac421ff9f046", null ],
+    [ "GetYMove", "class_game_1_1_entities_1_1_character.html#a830f51c9d87b7e85cd3513bbd708c636", null ],
+    [ "Move", "class_game_1_1_entities_1_1_character.html#af48e53fa63b63edd2c4a5003d13fcc2e", null ],
+    [ "MoveX", "class_game_1_1_entities_1_1_character.html#a5ec4c5e437897c2e229c4792a2b84721", null ],
+    [ "MoveY", "class_game_1_1_entities_1_1_character.html#a91a7153f70547bc65e20148dabb2e83e", null ],
+    [ "SetActualLife", "class_game_1_1_entities_1_1_character.html#afe14a01db344ec91aaff3805ceefaa6f", null ],
+    [ "SetLife", "class_game_1_1_entities_1_1_character.html#a8fd3e8c6704519816b1ba14f12c8a76b", null ],
+    [ "SetSpeed", "class_game_1_1_entities_1_1_character.html#ac34c76bbc76b96e4976ba65af6af995b", null ],
+    [ "SetXMove", "class_game_1_1_entities_1_1_character.html#a99e121c3e903e51bb18e58882259a547", null ],
+    [ "SetYMove", "class_game_1_1_entities_1_1_character.html#a822a2ee9b8911ef1731de527147f7b98", null ],
+    [ "actualLife", "class_game_1_1_entities_1_1_character.html#a76eeba0b24100b8dba49b8f51a5344b6", null ],
+    [ "life", "class_game_1_1_entities_1_1_character.html#a285b454c608e1abfb047e7ff14722e94", null ],
+    [ "speed", "class_game_1_1_entities_1_1_character.html#a14f00003442d2adefab8acdf0445734f", null ],
+    [ "xMove", "class_game_1_1_entities_1_1_character.html#a5958b1fc3a223751cc450260aba813b9", null ],
+    [ "yMove", "class_game_1_1_entities_1_1_character.html#af7673e105d5974e8965c8cbde8234e25", null ]
+];

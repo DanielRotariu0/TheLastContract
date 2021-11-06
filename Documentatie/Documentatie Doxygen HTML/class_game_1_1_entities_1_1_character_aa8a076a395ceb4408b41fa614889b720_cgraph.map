@@ -1,0 +1,5 @@
+<map id="Game.Entities.Character.collision" name="Game.Entities.Character.collision">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,221,57"/>
+<area shape="rect" id="node2" href="$class_game_1_1_ref_links.html#a51aac41603f4390606531d4e19a28937" title=" " alt="" coords="272,5,433,32"/>
+<area shape="rect" id="node3" href="$class_game_1_1_maps_1_1_map.html#a27b7ce0c251ce6dab01b311ec0bdcb09" title=" " alt="" coords="269,56,436,83"/>
+</map>

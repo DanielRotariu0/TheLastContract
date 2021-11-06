@@ -1,0 +1,6 @@
+<map id="Game.Entities.Player.Draw" name="Game.Entities.Player.Draw">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,184,98"/>
+<area shape="rect" id="node2" href="$class_game_1_1_graphics_1_1_animation.html#a290668bd2d42116e6f6f7e8aa08ed9f0" title=" " alt="" coords="233,5,430,47"/>
+<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_player.html#a0d3eb904f58a6149b50ab7560fd920a0" title=" " alt="" coords="236,71,427,98"/>
+<area shape="rect" id="node4" href="$class_game_1_1_graphics_1_1_assets.html#af9217ede3039c2835f35fb9fadb34190" title=" " alt="" coords="232,123,431,164"/>
+</map>

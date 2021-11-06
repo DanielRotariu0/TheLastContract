@@ -1,0 +1,9 @@
+<map id="Game.Entities.Medallion.MedallionManager.addMedallion" name="Game.Entities.Medallion.MedallionManager.addMedallion">
+<area shape="rect" id="node1" title=" " alt="" coords="471,71,677,112"/>
+<area shape="rect" id="node2" href="$class_game_1_1_states_1_1_level1_state.html#ae6e22b320f18e82b71bd67fdbf30fd6c" title=" " alt="" coords="228,5,423,47"/>
+<area shape="rect" id="node4" href="$class_game_1_1_states_1_1_level2_state.html#aa98922462ac17cb996faa5737b05fdf3" title=" " alt="" coords="228,71,423,112"/>
+<area shape="rect" id="node6" href="$class_game_1_1_states_1_1_level3_state.html#a145a61184f697accf1316a03ebda3a36" title=" " alt="" coords="228,136,423,177"/>
+<area shape="rect" id="node3" href="$class_game_1_1_states_1_1_level1_state.html#a82478429852f0f29b5beb5e23caf24d5" title=" " alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node5" href="$class_game_1_1_states_1_1_level2_state.html#ac7d78f7e70eb873d051498c4c0e48ee5" title=" " alt="" coords="5,71,180,112"/>
+<area shape="rect" id="node7" href="$class_game_1_1_states_1_1_level3_state.html#a4023172544c74f07ca748327fb8f7c90" title=" " alt="" coords="5,136,180,177"/>
+</map>

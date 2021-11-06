@@ -1,0 +1,5 @@
+<map id="Game.Tiles.SwampWaterTile" name="Game.Tiles.SwampWaterTile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,305,196,332"/>
+<area shape="rect" id="node2" href="$class_game_1_1_tiles_1_1_tile.html" title=" " alt="" coords="45,162,157,189"/>
+<area shape="rect" id="node3" title=" " alt="" coords="49,5,153,32"/>
+</map>

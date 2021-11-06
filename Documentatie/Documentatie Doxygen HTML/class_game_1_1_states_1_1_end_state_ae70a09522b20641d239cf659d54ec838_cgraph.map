@@ -1,0 +1,7 @@
+<map id="Game.States.EndState.Draw" name="Game.States.EndState.Draw">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,196,124"/>
+<area shape="rect" id="node2" href="$class_game_1_1_ref_links.html#ac9804cd65bce54f769c5f3aa1298c281" title=" " alt="" coords="244,5,417,32"/>
+<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_player.html#aee924ed493b5180c176f778079b9cd38" title=" " alt="" coords="247,57,415,98"/>
+<area shape="rect" id="node4" href="$class_game_1_1_entities_1_1_player.html#a0054b2492085a6260efcd484f9160b78" title=" " alt="" coords="245,122,416,163"/>
+<area shape="rect" id="node5" href="$class_game_1_1_ref_links.html#ad537041f09ce5d1d8a3d52e09890426b" title=" " alt="" coords="245,188,416,215"/>
+</map>

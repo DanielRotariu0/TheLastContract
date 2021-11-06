@@ -1,0 +1,18 @@
+<map id="Game.Input.MouseManager.getMouseX" name="Game.Input.MouseManager.getMouseX">
+<area shape="rect" id="node1" title=" " alt="" coords="520,300,724,341"/>
+<area shape="rect" id="node2" href="$class_game_1_1_states_1_1_play_state.html#a1a774bdb8cb6a28ba60103461bc74f81" title=" " alt="" coords="270,82,458,109"/>
+<area shape="rect" id="node6" href="$class_game_1_1_states_1_1_menu_state.html#a6b06a0136950748f1cf0dac3ab8b96f9" title=" " alt="" coords="265,139,463,166"/>
+<area shape="rect" id="node7" href="$class_game_1_1_states_1_1_pause_state.html#a43c05952306b16791cc99c25b58c1601" title=" " alt="" coords="262,190,466,217"/>
+<area shape="rect" id="node8" href="$class_game_1_1_states_1_1_play_state.html#a560e99cf4489b3a11475975c75f4c7dd" title=" " alt="" coords="269,241,459,283"/>
+<area shape="rect" id="node12" href="$class_game_1_1_states_1_1_end_state.html#a7e981dbcebadca0bd6c894ff86b5f2b1" title=" " alt="" coords="263,307,465,334"/>
+<area shape="rect" id="node13" href="$class_game_1_1_states_1_1_info_state.html#ae5ec34ab7317601b9500bff9a234df08" title=" " alt="" coords="265,358,463,385"/>
+<area shape="rect" id="node14" href="$class_game_1_1_states_1_1_menu_state.html#a41bfcb7f26b70c0a530678703cda2a6e" title=" " alt="" coords="259,409,469,435"/>
+<area shape="rect" id="node15" href="$class_game_1_1_states_1_1_pause_state.html#a5058bf4d3cbca89246904f30dc2bc663" title=" " alt="" coords="256,459,472,486"/>
+<area shape="rect" id="node16" href="$class_game_1_1_states_1_1_settings_state.html#a6ff082091acf63cfcc820fac3a8d0e64" title=" " alt="" coords="271,511,457,552"/>
+<area shape="rect" id="node3" href="$class_game_1_1_states_1_1_level1_state.html#a82478429852f0f29b5beb5e23caf24d5" title=" " alt="" coords="19,5,194,47"/>
+<area shape="rect" id="node4" href="$class_game_1_1_states_1_1_level2_state.html#ac7d78f7e70eb873d051498c4c0e48ee5" title=" " alt="" coords="19,71,194,112"/>
+<area shape="rect" id="node5" href="$class_game_1_1_states_1_1_level3_state.html#a4023172544c74f07ca748327fb8f7c90" title=" " alt="" coords="19,136,194,177"/>
+<area shape="rect" id="node9" href="$class_game_1_1_states_1_1_level1_state.html#aacb3edf7665c2d634ddd95274c1f6513" title=" " alt="" coords="5,202,208,229"/>
+<area shape="rect" id="node10" href="$class_game_1_1_states_1_1_level2_state.html#a4abf90d93d6b73654aa5dd8a05189cb8" title=" " alt="" coords="5,253,208,279"/>
+<area shape="rect" id="node11" href="$class_game_1_1_states_1_1_level3_state.html#a40e1badcad9fe44803d67c97edf22caa" title=" " alt="" coords="5,303,208,330"/>
+</map>

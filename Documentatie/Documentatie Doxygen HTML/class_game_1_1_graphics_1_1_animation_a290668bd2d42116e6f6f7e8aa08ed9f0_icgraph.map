@@ -1,0 +1,6 @@
+<map id="Game.Graphics.Animation.getCurrentFrame" name="Game.Graphics.Animation.getCurrentFrame">
+<area shape="rect" id="node1" title=" " alt="" coords="292,49,489,90"/>
+<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_enemies_1_1_enemy.html#a84386c5eab85f3032ffb16cb0bce4405" title=" " alt="" coords="5,5,244,32"/>
+<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_enemies_1_1_witch.html#a84490d222fe6b4a8b53d5be7f389e324" title=" " alt="" coords="9,56,240,83"/>
+<area shape="rect" id="node4" href="$class_game_1_1_entities_1_1_player.html#afacc33342e19e604c9f584f6eac9551f" title=" " alt="" coords="35,107,214,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Game.Graphics.Animation.Update" name="Game.Graphics.Animation.Update">
+<area shape="rect" id="node1" title=" " alt="" coords="535,123,713,164"/>
+<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_enemies_1_1_enemy.html#af5590b5e97dc64af691dd7c6f49aac71" title=" " alt="" coords="270,5,479,47"/>
+<area shape="rect" id="node4" href="$class_game_1_1_entities_1_1_player.html#ad7c6d39691421602fd2ae80b59825e56" title=" " alt="" coords="279,71,470,98"/>
+<area shape="rect" id="node5" href="$class_game_1_1_entities_1_1_enemies_1_1_caretaker.html#a6e6b20ad9103c79c1371661fe5d9b882" title=" " alt="" coords="263,123,487,164"/>
+<area shape="rect" id="node6" href="$class_game_1_1_entities_1_1_enemies_1_1_werewolf.html#ad09e3b6cf961f1a1b646832b85e5b25f" title=" " alt="" coords="264,188,485,229"/>
+<area shape="rect" id="node7" href="$class_game_1_1_entities_1_1_enemies_1_1_witch.html#a2bd8d6f78b3f9d7d7083bc83d31c5eab" title=" " alt="" coords="273,253,476,295"/>
+<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_enemies_1_1_enemy.html#a11ec059b7c5eebdf137e0c1cbbf8e3c8" title=" " alt="" coords="5,5,215,47"/>
+</map>

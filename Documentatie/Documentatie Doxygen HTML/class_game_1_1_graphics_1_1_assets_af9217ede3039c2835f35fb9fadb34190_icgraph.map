@@ -1,0 +1,8 @@
+<map id="Game.Graphics.Assets.PlayerAttackTimeElapsed" name="Game.Graphics.Assets.PlayerAttackTimeElapsed">
+<area shape="rect" id="node1" title=" " alt="" coords="589,45,788,87"/>
+<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_player.html#afacc33342e19e604c9f584f6eac9551f" title=" " alt="" coords="320,27,499,54"/>
+<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_enemies_1_1_enemy.html#a78470e46c679da9821d8993a3f692422" title=" " alt="" coords="277,78,541,105"/>
+<area shape="rect" id="node4" href="$class_game_1_1_entities_1_1_enemies_1_1_caretaker.html#a6e6b20ad9103c79c1371661fe5d9b882" title=" " alt="" coords="5,5,229,47"/>
+<area shape="rect" id="node5" href="$class_game_1_1_entities_1_1_enemies_1_1_werewolf.html#ad09e3b6cf961f1a1b646832b85e5b25f" title=" " alt="" coords="7,71,228,112"/>
+<area shape="rect" id="node6" href="$class_game_1_1_entities_1_1_enemies_1_1_witch.html#a2bd8d6f78b3f9d7d7083bc83d31c5eab" title=" " alt="" coords="16,136,219,177"/>
+</map>

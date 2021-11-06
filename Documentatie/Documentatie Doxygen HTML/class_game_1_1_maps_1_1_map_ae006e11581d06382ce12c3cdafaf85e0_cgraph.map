@@ -1,0 +1,10 @@
+<map id="Game.Maps.Map.Update" name="Game.Maps.Map.Update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,172,73"/>
+<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_entity_manager.html#a02d1fe54f32167b8aa102de5a31d8df3" title=" " alt="" coords="220,5,417,47"/>
+<area shape="rect" id="node4" href="$class_game_1_1_entities_1_1_medallion_1_1_medallion_manager.html#aa4de6dce74ca5e035e21ff71e1eb7e95" title=" " alt="" coords="233,71,405,112"/>
+<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_entity.html#a213081723689eceef4f701ca8bbe547d" title=" " alt="" coords="465,13,653,39"/>
+<area shape="rect" id="node5" href="$class_game_1_1_entities_1_1_medallion_1_1_medallion.html#a8de96ac56d248db071b23ceb48241c9b" title=" " alt="" coords="475,67,643,108"/>
+<area shape="rect" id="node6" href="$class_game_1_1_entities_1_1_medallion_1_1_medallion.html#a82aa0813bdc92b338f8ef60489318294" title=" " alt="" coords="475,132,643,173"/>
+<area shape="rect" id="node7" href="$class_game_1_1_maps_1_1_map.html#a12ad1c2fd5b4f9f6d56dacecf513e52e" title=" " alt="" coords="701,114,929,141"/>
+<area shape="rect" id="node8" href="$class_game_1_1_ref_links.html#a51aac41603f4390606531d4e19a28937" title=" " alt="" coords="735,165,896,191"/>
+</map>

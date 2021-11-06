@@ -1,0 +1,5 @@
+<map id="Game.Maps.Map.LoadWorld" name="Game.Maps.Map.LoadWorld">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,193,32"/>
+<area shape="rect" id="node2" href="$class_game_1_1_maps_1_1_map.html#a9f26bf170182669dccae52d80dd0e113" title=" " alt="" coords="241,5,480,32"/>
+<area shape="rect" id="node3" href="$class_game_1_1_maps_1_1_map.html#aef318e4f244ec6809769083ed27dcbff" title=" " alt="" coords="528,5,719,32"/>
+</map>

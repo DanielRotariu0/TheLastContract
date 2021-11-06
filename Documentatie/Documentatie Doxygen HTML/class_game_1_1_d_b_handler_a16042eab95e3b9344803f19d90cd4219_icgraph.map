@@ -1,0 +1,9 @@
+<map id="Game.DBHandler.getDifficulty" name="Game.DBHandler.getDifficulty">
+<area shape="rect" id="node1" title=" " alt="" coords="268,163,463,189"/>
+<area shape="rect" id="node2" href="$class_game_1_1_states_1_1_settings_state.html#aa56cc414c5b8d97859f3aebae43ca0d2" title=" " alt="" coords="5,5,220,32"/>
+<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_enemies_1_1_enemy.html#a96d4b933a2e0bc17c349f3e6e40576c2" title=" " alt="" coords="8,57,217,98"/>
+<area shape="rect" id="node4" href="$class_game_1_1_states_1_1_level1_state.html#a82478429852f0f29b5beb5e23caf24d5" title=" " alt="" coords="25,122,200,163"/>
+<area shape="rect" id="node5" href="$class_game_1_1_states_1_1_level2_state.html#ac7d78f7e70eb873d051498c4c0e48ee5" title=" " alt="" coords="25,187,200,229"/>
+<area shape="rect" id="node6" href="$class_game_1_1_states_1_1_level3_state.html#a4023172544c74f07ca748327fb8f7c90" title=" " alt="" coords="25,253,200,294"/>
+<area shape="rect" id="node7" href="$class_game_1_1_states_1_1_settings_state.html#a6ff082091acf63cfcc820fac3a8d0e64" title=" " alt="" coords="19,318,206,359"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Game.States.InfoState.Update" name="Game.States.InfoState.Update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,204,192"/>
+<area shape="rect" id="node2" href="$class_game_1_1_ref_links.html#abc001978dc21007a4be2d3dbfbe6eacb" title=" " alt="" coords="279,5,450,32"/>
+<area shape="rect" id="node3" href="$class_game_1_1_game.html#aa48bc464377bc0c0417175c75bdd9917" title=" " alt="" coords="274,56,455,83"/>
+<area shape="rect" id="node4" href="$class_game_1_1_ref_links.html#ab0d002d7bd847d5e02da8cbcff696860" title=" " alt="" coords="252,107,477,133"/>
+<area shape="rect" id="node5" href="$class_game_1_1_input_1_1_mouse_manager.html#a9ade9c5079aa401520c1846bad429e65" title=" " alt="" coords="263,158,467,199"/>
+<area shape="rect" id="node6" href="$class_game_1_1_input_1_1_mouse_manager.html#a51fb9ff55ee59542d9bef4c0b67f9fea" title=" " alt="" coords="263,223,467,265"/>
+<area shape="rect" id="node7" href="$class_game_1_1_input_1_1_mouse_manager.html#a908cf69d9a0526f0114953eea4c5346c" title=" " alt="" coords="263,289,466,330"/>
+<area shape="rect" id="node8" href="$class_game_1_1_states_1_1_state.html#a5e6261da1d02c1cf105d97cdc70c9f77" title=" " alt="" coords="270,355,459,381"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Game.Entities.Enemies.Enemy.Draw" name="Game.Entities.Enemies.Enemy.Draw">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,244,73"/>
+<area shape="rect" id="node2" href="$class_game_1_1_graphics_1_1_assets.html#a170117a978e3e9dc86cb5e3e910072e4" title=" " alt="" coords="292,5,495,47"/>
+<area shape="rect" id="node3" href="$class_game_1_1_graphics_1_1_animation.html#a290668bd2d42116e6f6f7e8aa08ed9f0" title=" " alt="" coords="295,71,492,112"/>
+</map>

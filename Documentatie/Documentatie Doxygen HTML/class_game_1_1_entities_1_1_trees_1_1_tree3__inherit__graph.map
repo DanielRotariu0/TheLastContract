@@ -1,0 +1,5 @@
+<map id="Game.Entities.Trees.Tree3" name="Game.Entities.Trees.Tree3">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,183,181"/>
+<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_trees_1_1_tree.html" title=" " alt="" coords="9,80,179,107"/>
+<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_entity.html" title=" " alt="" coords="23,5,165,32"/>
+</map>

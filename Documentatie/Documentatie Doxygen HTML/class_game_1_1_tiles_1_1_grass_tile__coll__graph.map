@@ -1,0 +1,5 @@
+<map id="Game.Tiles.GrassTile" name="Game.Tiles.GrassTile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,305,152,332"/>
+<area shape="rect" id="node2" href="$class_game_1_1_tiles_1_1_tile.html" title=" " alt="" coords="23,162,135,189"/>
+<area shape="rect" id="node3" title=" " alt="" coords="27,5,131,32"/>
+</map>
