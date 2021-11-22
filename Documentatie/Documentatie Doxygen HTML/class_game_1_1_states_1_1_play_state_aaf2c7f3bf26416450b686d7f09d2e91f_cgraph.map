@@ -1,8 +1,0 @@
-<map id="Game.States.PlayState.PlayState" name="Game.States.PlayState.PlayState">
-<area shape="rect" id="node1" title=" " alt="" coords="5,107,196,149"/>
-<area shape="rect" id="node2" href="$class_game_1_1_ref_links.html#a742314b54fac34711cd7fdf40c21a4a3" title=" " alt="" coords="261,5,451,32"/>
-<area shape="rect" id="node3" href="$class_game_1_1_d_b_handler.html#a37ae6fe0b0ffaedb7ff4ed0150425ada" title=" " alt="" coords="244,56,468,83"/>
-<area shape="rect" id="node4" href="$class_game_1_1_entities_1_1_player.html#aee924ed493b5180c176f778079b9cd38" title=" " alt="" coords="272,107,440,149"/>
-<area shape="rect" id="node5" href="$class_game_1_1_ref_links.html#a121c451df38cc4313efb6bdcab058d7c" title=" " alt="" coords="276,173,436,200"/>
-<area shape="rect" id="node6" href="$class_game_1_1_graphics_1_1_sound.html#a052671c17427176dee7cce787adc0e5d" title=" " alt="" coords="246,224,466,251"/>
-</map>

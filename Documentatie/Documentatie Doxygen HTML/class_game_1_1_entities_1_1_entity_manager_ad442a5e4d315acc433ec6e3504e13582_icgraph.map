@@ -1,8 +1,0 @@
-<map id="Game.Entities.EntityManager.Draw" name="Game.Entities.EntityManager.Draw">
-<area shape="rect" id="node1" title=" " alt="" coords="459,81,685,108"/>
-<area shape="rect" id="node2" href="$class_game_1_1_maps_1_1_map.html#a755f460308e6c12a2b73f33016039523" title=" " alt="" coords="256,81,411,108"/>
-<area shape="rect" id="node3" href="$class_game_1_1_states_1_1_level1_state.html#aacb3edf7665c2d634ddd95274c1f6513" title=" " alt="" coords="5,5,208,32"/>
-<area shape="rect" id="node4" href="$class_game_1_1_states_1_1_level2_state.html#a4abf90d93d6b73654aa5dd8a05189cb8" title=" " alt="" coords="5,56,208,83"/>
-<area shape="rect" id="node5" href="$class_game_1_1_states_1_1_level3_state.html#a40e1badcad9fe44803d67c97edf22caa" title=" " alt="" coords="5,107,208,133"/>
-<area shape="rect" id="node6" href="$class_game_1_1_states_1_1_play_state.html#a596607db06dec19977e53ca630c4cb1f" title=" " alt="" coords="10,157,203,184"/>
-</map>

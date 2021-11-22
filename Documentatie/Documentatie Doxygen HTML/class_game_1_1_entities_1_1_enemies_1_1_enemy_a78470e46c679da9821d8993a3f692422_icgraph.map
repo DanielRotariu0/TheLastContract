@@ -1,6 +1,0 @@
-<map id="Game.Entities.Enemies.Enemy.gettingHit" name="Game.Entities.Enemies.Enemy.gettingHit">
-<area shape="rect" id="node1" title=" " alt="" coords="277,78,541,105"/>
-<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_enemies_1_1_caretaker.html#a6e6b20ad9103c79c1371661fe5d9b882" title=" " alt="" coords="5,5,229,47"/>
-<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_enemies_1_1_werewolf.html#ad09e3b6cf961f1a1b646832b85e5b25f" title=" " alt="" coords="7,71,228,112"/>
-<area shape="rect" id="node4" href="$class_game_1_1_entities_1_1_enemies_1_1_witch.html#a2bd8d6f78b3f9d7d7083bc83d31c5eab" title=" " alt="" coords="16,136,219,177"/>
-</map>

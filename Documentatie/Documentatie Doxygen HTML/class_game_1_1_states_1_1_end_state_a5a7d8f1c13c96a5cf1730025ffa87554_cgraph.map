@@ -1,6 +1,0 @@
-<map id="Game.States.EndState.EndState" name="Game.States.EndState.EndState">
-<area shape="rect" id="node1" title=" " alt="" coords="5,49,189,90"/>
-<area shape="rect" id="node2" href="$class_game_1_1_ref_links.html#a742314b54fac34711cd7fdf40c21a4a3" title=" " alt="" coords="254,5,445,32"/>
-<area shape="rect" id="node3" href="$class_game_1_1_d_b_handler.html#a37ae6fe0b0ffaedb7ff4ed0150425ada" title=" " alt="" coords="237,56,461,83"/>
-<area shape="rect" id="node4" href="$class_game_1_1_graphics_1_1_sound.html#a052671c17427176dee7cce787adc0e5d" title=" " alt="" coords="239,107,459,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Game.States.Level3State" name="Game.States.Level3State">
-<area shape="rect" id="node1" title=" " alt="" coords="5,155,176,181"/>
-<area shape="rect" id="node2" href="$class_game_1_1_states_1_1_play_state.html" title=" " alt="" coords="11,80,171,107"/>
-<area shape="rect" id="node3" href="$class_game_1_1_states_1_1_state.html" title=" " alt="" coords="23,5,158,32"/>
-</map>

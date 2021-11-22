@@ -1,5 +1,0 @@
-<map id="Game.Graphics.Assets.Init" name="Game.Graphics.Assets.Init">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,184,61"/>
-<area shape="rect" id="node2" href="$class_game_1_1_graphics_1_1_sprite_sheet.html#a19490cca3b96a4ac9c2dec09cd7b745a" title=" " alt="" coords="232,5,447,32"/>
-<area shape="rect" id="node3" href="$class_game_1_1_graphics_1_1_image_loader.html#a7db86086098d4efbf163294ed526ef91" title=" " alt="" coords="242,57,437,98"/>
-</map>

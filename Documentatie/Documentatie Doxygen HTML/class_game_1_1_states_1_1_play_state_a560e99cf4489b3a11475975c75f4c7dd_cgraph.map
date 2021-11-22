@@ -1,6 +1,0 @@
-<map id="Game.States.PlayState.drawHoverSword" name="Game.States.PlayState.drawHoverSword">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,196,98"/>
-<area shape="rect" id="node2" href="$class_game_1_1_ref_links.html#ab0d002d7bd847d5e02da8cbcff696860" title=" " alt="" coords="244,5,469,32"/>
-<area shape="rect" id="node3" href="$class_game_1_1_input_1_1_mouse_manager.html#a9ade9c5079aa401520c1846bad429e65" title=" " alt="" coords="255,57,459,98"/>
-<area shape="rect" id="node4" href="$class_game_1_1_input_1_1_mouse_manager.html#a51fb9ff55ee59542d9bef4c0b67f9fea" title=" " alt="" coords="255,122,459,163"/>
-</map>

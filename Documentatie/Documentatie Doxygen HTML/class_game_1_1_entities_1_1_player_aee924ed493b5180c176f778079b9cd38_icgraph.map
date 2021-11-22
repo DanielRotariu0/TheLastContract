@@ -1,6 +1,0 @@
-<map id="Game.Entities.Player.getInstance" name="Game.Entities.Player.getInstance">
-<area shape="rect" id="node1" title=" " alt="" coords="244,49,412,90"/>
-<area shape="rect" id="node2" href="$class_game_1_1_states_1_1_end_state.html#ae70a09522b20641d239cf659d54ec838" title=" " alt="" coords="5,5,196,32"/>
-<area shape="rect" id="node3" href="$class_game_1_1_maps_1_1_map.html#a9bd52d60d5a35b533f70597cbf06c24d" title=" " alt="" coords="25,56,176,83"/>
-<area shape="rect" id="node4" href="$class_game_1_1_states_1_1_play_state.html#aaf2c7f3bf26416450b686d7f09d2e91f" title=" " alt="" coords="5,107,196,149"/>
-</map>

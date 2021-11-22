@@ -1,8 +1,0 @@
-<map id="Game.States.Level2State.addMedallions" name="Game.States.Level2State.addMedallions">
-<area shape="rect" id="node1" title=" " alt="" coords="5,100,200,141"/>
-<area shape="rect" id="node2" href="$class_game_1_1_entities_1_1_medallion_1_1_medallion_manager.html#a957beed8a89fc702677f559a44eaf282" title=" " alt="" coords="248,5,455,47"/>
-<area shape="rect" id="node4" href="$class_game_1_1_maps_1_1_map.html#aeb74ae3613796b82d4e025a16cc36fb8" title=" " alt="" coords="252,71,451,112"/>
-<area shape="rect" id="node5" href="$class_game_1_1_maps_1_1_map.html#a1a9597276f87efe38d54daf37fb14dda" title=" " alt="" coords="264,137,439,163"/>
-<area shape="rect" id="node6" href="$class_game_1_1_maps_1_1_map.html#a3194d303bbc9450a6f6845eed53db54f" title=" " alt="" coords="252,188,451,229"/>
-<area shape="rect" id="node3" href="$class_game_1_1_entities_1_1_medallion_1_1_medallion.html#a643a8e21fc8407a8cb375f4cdc6a6ce0" title=" " alt="" coords="503,5,671,47"/>
-</map>
